@@ -1,0 +1,11 @@
+{
+	"name": "letron/error-compat",
+	"description": "A PHP 7 compatible error handler for Mako 4",
+	"keywords": ["mako", "framework", "error"],
+	"license": "BSD-3-Clause",
+	"autoload": {
+		"psr-4": {
+			"letron\\error\\": "src"
+		}
+	}
+}
