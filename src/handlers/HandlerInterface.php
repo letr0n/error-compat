@@ -5,7 +5,7 @@
  * @license    http://www.makoframework.com/license
  */
 
-namespace letr0n\error\handlers;
+namespace letron\error\handlers;
 
 /**
  * Store interface.

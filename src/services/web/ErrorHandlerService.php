@@ -7,8 +7,8 @@
 
 namespace mako\application\services\web;
 
-use letr0n\error\ErrorHandler;
-use letr0n\error\handlers\WebHandler;
+use letron\error\ErrorHandler;
+use letron\error\handlers\WebHandler;
 
 use mako\application\services\Service;
 
@@ -23,7 +23,7 @@ class ErrorHandlerService extends Service
 	 * Helper method that ensures lazy loading of the logger.
 	 *
 	 * @access  protected
-	 * @param   \letr0n\error\ErrorHandler  $errorHandler  Error handler instance
+	 * @param   \letron\error\ErrorHandler  $errorHandler  Error handler instance
 	 */
 	protected function setLogger($errorHandler)
 	{

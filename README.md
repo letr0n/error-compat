@@ -6,8 +6,8 @@ This the [Mako](https://makoframework.com) 5 error handler as a stand-alone pack
 
 Install the package using composer:
 
-	composer require letr0n/error-compat
+	composer require letron/error-compat
 
-Then open your ```app/config/application.php``` configuration file and replace the two Mako error handler services with the ```letr0n\error\services\cli\ErrorHandlerService``` and ```letr0n\error\services\web\ErrorHandlerService``` services.
+Then open your ```app/config/application.php``` configuration file and replace the two Mako error handler services with the ```letron\error\services\cli\ErrorHandlerService``` and ```letron\error\services\web\ErrorHandlerService``` services.
 
 That's it. You're done!

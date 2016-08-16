@@ -5,12 +5,12 @@
  * @license    http://www.makoframework.com/license
  */
 
-namespace letr0n\error\handlers;
+namespace letron\error\handlers;
 
 use Throwable;
 use ErrorException;
 
-use letr0n\error\handlers\HandlerInterface;
+use letron\error\handlers\HandlerInterface;
 
 /**
  * Base handler.

@@ -5,11 +5,11 @@
  * @license    http://www.makoframework.com/license
  */
 
-namespace letr0n\error\handlers;
+namespace letron\error\handlers;
 
 use Throwable;
 
-use letr0n\error\handlers\Handler;
+use letron\error\handlers\Handler;
 
 use mako\cli\output\Output;
 
