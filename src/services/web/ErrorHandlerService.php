@@ -5,7 +5,7 @@
  * @license    http://www.makoframework.com/license
  */
 
-namespace mako\application\services\web;
+namespace letron\error\services\web;
 
 use letron\error\ErrorHandler;
 use letron\error\handlers\WebHandler;

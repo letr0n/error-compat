@@ -5,7 +5,7 @@
  * @license    http://www.makoframework.com/license
  */
 
-namespace mako\application\services\cli;
+namespace letron\error\services\cli;
 
 use letron\error\ErrorHandler;
 use letron\error\handlers\CLIHandler;
